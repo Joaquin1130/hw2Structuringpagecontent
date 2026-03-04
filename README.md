@@ -1,1 +1,1 @@
-https://github.com/Joaquin1130/hw2Structuringpagecontent
+https://joaquin1130.github.io/hw2Structuringpagecontent/
